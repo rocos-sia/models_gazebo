@@ -1,7 +1,9 @@
 # models_gazebo
 The models of gazebo
 ######
-The models2 is  provided by the paper "Learning kinematic feasibility through reinforcement learning", if you are insterested in it,you can see the [project website](https://rl.uni-freiburg.de/research/kinematic-feasibility-rl).
+The models2 is  provided by the paper "Learning kinematic feasibility through reinforcement learning", 
+if you are insterested in it,you can see the [project website]
+(https://rl.uni-freiburg.de/research/kinematic-feasibility-rl).
 The code of this paper : https://github.com/robot-learning-freiburg/kinematic-feasibility-rl
 ###简介###
 models1文件夹主要是网上收集的gazebo环境下的一些模型
